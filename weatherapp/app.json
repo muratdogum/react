@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "weatherapp",
+    "slug": "snack-becccf40-c6e7-4996-9a3d-b9ebfdd72f37",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.murat_cmc.snackbecccf40c6e749969a3db9ebfdd72f37"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "71b3c3fa-dc60-4b32-8675-e287783827d0"
+      }
+    }
+  }
+}
